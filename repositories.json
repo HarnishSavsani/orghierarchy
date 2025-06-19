@@ -1,0 +1,2170 @@
+[
+    {
+        "Repo-Name": "ABC_TEST_MY2024_EP1111_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/ABC_TEST_MY2024_EP1111_Integration",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "ABC_TEST_MY2024_EP1111_Integration",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/ABC_TEST_MY2024_EP1111_Integration",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Android-Build-Optimization",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Android-Build-Optimization",
+        "Size": "20.29 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Android-Build-Optimization",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Android-Build-Optimization",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "BMW_8295_POC_msmnile_gvmq_IVI_MY2025_EP31862_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/BMW_8295_POC_msmnile_gvmq_IVI_MY2025_EP31862_Integration",
+        "Size": "184.38 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "BMW_8295_POC_msmnile_gvmq_IVI_MY2025_EP31862_Integration",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/BMW_8295_POC_msmnile_gvmq_IVI_MY2025_EP31862_Integration",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Common_Access_Test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Common_Access_Test",
+        "Size": "3.75 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Common_Access_Test",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Common_Access_Test",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "DN_TEST_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/DN_TEST_Integration",
+        "Size": "118.38 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "DN_TEST_Integration",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/DN_TEST_Integration",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "DN_TEST_Release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/DN_TEST_Release",
+        "Size": "174.32 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "DN_TEST_Release",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/DN_TEST_Release",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "DN_TEST_Validation",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/DN_TEST_Validation",
+        "Size": "5.28 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "DN_TEST_Validation",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/DN_TEST_Validation",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Deletion_test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Deletion_test",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Deletion_test",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Deletion_test",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Gen-AI-Scripts",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Gen-AI-Scripts",
+        "Size": "17.62 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Gen-AI-Scripts",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Gen-AI-Scripts",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Gradletest",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Gradletest",
+        "Size": "1.93 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Gradletest",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Gradletest",
+            "packageType": "Gradle"
+        }
+    },
+    {
+        "Repo-Name": "Jfrog_test_release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Jfrog_test_release",
+        "Size": "5.15 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Jfrog_test_release",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Jfrog_test_release",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "KIA_IVI_IC_2024_Validation",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/KIA_IVI_IC_2024_Validation",
+        "Size": "656 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "KIA_IVI_IC_2024_Validation",
+            "description": "KIA Instrument Cluster  main Features Testing",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/KIA_IVI_IC_2024_Validation",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Mahindra_S237_IVI_MY2024_EP29826_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Mahindra_S237_IVI_MY2024_EP29826_Integration",
+        "Size": "165 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Mahindra_S237_IVI_MY2024_EP29826_Integration",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Mahindra_S237_IVI_MY2024_EP29826_Integration",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Mahindra_S237_IVI_MY2024_EP29826_Release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Mahindra_S237_IVI_MY2024_EP29826_Release",
+        "Size": "165 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Mahindra_S237_IVI_MY2024_EP29826_Release",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Mahindra_S237_IVI_MY2024_EP29826_Release",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "NISSAN_P13A_EL2_CRE_MY2024_EP30319_NightlyBuilds",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P13A_EL2_CRE_MY2024_EP30319_NightlyBuilds",
+        "Size": "1.13 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "NISSAN_P13A_EL2_CRE_MY2024_EP30319_NightlyBuilds",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P13A_EL2_CRE_MY2024_EP30319_NightlyBuilds",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "NISSAN_P13A_EL2_CRE_MY2024_EP30319_Release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P13A_EL2_CRE_MY2024_EP30319_Release",
+        "Size": "5.94 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "NISSAN_P13A_EL2_CRE_MY2024_EP30319_Release",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P13A_EL2_CRE_MY2024_EP30319_Release",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "NISSAN_P2",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P2",
+        "Size": "12 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "NISSAN_P2",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P2",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "NISSAN_P3",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P3",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "NISSAN_P3",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P3",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "NISSAN_P4",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P4",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "NISSAN_P4",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P4",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "NISSAN_P5",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P5",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "NISSAN_P5",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN_P5",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "PlatformRepo",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/PlatformRepo",
+        "Size": "6.56 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "PlatformRepo",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/PlatformRepo",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Pune_Repo_Replication",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Pune_Repo_Replication",
+        "Size": "188 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Pune_Repo_Replication",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Pune_Repo_Replication",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "QA_Test_Repository",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/QA_Test_Repository",
+        "Size": "30.46 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "QA_Test_Repository",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/QA_Test_Repository",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "RISE-EC3",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RISE-EC3",
+        "Size": "714.50 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "RISE-EC3",
+            "description": "RISE EC3 PROGRAM",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RISE-EC3",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "RISE-ECP2",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RISE-ECP2",
+        "Size": "1.33 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "RISE-ECP2",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RISE-ECP2",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "RISERS-2024",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RISERS-2024",
+        "Size": "50.47 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "RISERS-2024",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RISERS-2024",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "RepicationTestcronB2",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RepicationTestcronB2",
+        "Size": "898.90 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "RepicationTestcronB2",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RepicationTestcronB2",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "RepicationTestcron_B",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RepicationTestcron_B",
+        "Size": "7.87 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "RepicationTestcron_B",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RepicationTestcron_B",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Replica_CronjobTest_Ban",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Replica_CronjobTest_Ban",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Replica_CronjobTest_Ban",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Replica_CronjobTest_Ban",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Replicascript_test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Replicascript_test",
+        "Size": "277.43 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Replicascript_test",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Replicascript_test",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Reversetest_4m_Chennai",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Reversetest_4m_Chennai",
+        "Size": "277.19 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Reversetest_4m_Chennai",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Reversetest_4m_Chennai",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "RoyalEnfield_P3F2_CRE_MY2024_EP30962_RELEASE",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RoyalEnfield_P3F2_CRE_MY2024_EP30962_RELEASE",
+        "Size": "173 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "RoyalEnfield_P3F2_CRE_MY2024_EP30962_RELEASE",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/RoyalEnfield_P3F2_CRE_MY2024_EP30962_RELEASE",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "SSHtest",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/SSHtest",
+        "Size": "3.46 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "SSHtest",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/SSHtest",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "SampleRepo",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/SampleRepo",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "SampleRepo",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/SampleRepo",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Skoda_NightlyBuilds",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Skoda_NightlyBuilds",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Skoda_NightlyBuilds",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Skoda_NightlyBuilds",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Skoda_ReleaseBuilds",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Skoda_ReleaseBuilds",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Skoda_ReleaseBuilds",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Skoda_ReleaseBuilds",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TATA_SKYLARK_IVI_MY2024_EP30896_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TATA_SKYLARK_IVI_MY2024_EP30896_Integration",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TATA_SKYLARK_IVI_MY2024_EP30896_Integration",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TATA_SKYLARK_IVI_MY2024_EP30896_Integration",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TATA_SKYLARK_IVI_MY2024_EP30896_Validation",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TATA_SKYLARK_IVI_MY2024_EP30896_Validation",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TATA_SKYLARK_IVI_MY2024_EP30896_Validation",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TATA_SKYLARK_IVI_MY2024_EP30896_Validation",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TATA_TEST123_CRE_MY2024_EP1234_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TATA_TEST123_CRE_MY2024_EP1234_Integration",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TATA_TEST123_CRE_MY2024_EP1234_Integration",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TATA_TEST123_CRE_MY2024_EP1234_Integration",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TEST1_W330_CITI_12345_2026_NightlyBuild",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST1_W330_CITI_12345_2026_NightlyBuild",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TEST1_W330_CITI_12345_2026_NightlyBuild",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST1_W330_CITI_12345_2026_NightlyBuild",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TEST2_W330_CITI_12345_2026_Release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST2_W330_CITI_12345_2026_Release",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TEST2_W330_CITI_12345_2026_Release",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST2_W330_CITI_12345_2026_Release",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TEST_BUILDS_UPLOAD",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_BUILDS_UPLOAD",
+        "Size": "4.04 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TEST_BUILDS_UPLOAD",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_BUILDS_UPLOAD",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TEST_CONAN_REPO",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_CONAN_REPO",
+        "Size": "9.83 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TEST_CONAN_REPO",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_CONAN_REPO",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "TEST_DEVNEXT_UPLOADS_INTEGRATION",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_DEVNEXT_UPLOADS_INTEGRATION",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TEST_DEVNEXT_UPLOADS_INTEGRATION",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_DEVNEXT_UPLOADS_INTEGRATION",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TEST_DEVNEXT_UPLOADS_NIGHTLYBUILDS",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_DEVNEXT_UPLOADS_NIGHTLYBUILDS",
+        "Size": "310.03 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TEST_DEVNEXT_UPLOADS_NIGHTLYBUILDS",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_DEVNEXT_UPLOADS_NIGHTLYBUILDS",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TEST_DEVNEXT_UPLOADS_RELEASE",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_DEVNEXT_UPLOADS_RELEASE",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TEST_DEVNEXT_UPLOADS_RELEASE",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_DEVNEXT_UPLOADS_RELEASE",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TOYOTA_7XXD_YOCTO_CRE_MY2026_EP32348_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TOYOTA_7XXD_YOCTO_CRE_MY2026_EP32348_Integration",
+        "Size": "1.09 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TOYOTA_7XXD_YOCTO_CRE_MY2026_EP32348_Integration",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TOYOTA_7XXD_YOCTO_CRE_MY2026_EP32348_Integration",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "TOYOTA_7XXD_YOCTO_CRE_MY2026_EP32348_Release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TOYOTA_7XXD_YOCTO_CRE_MY2026_EP32348_Release",
+        "Size": "172 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TOYOTA_7XXD_YOCTO_CRE_MY2026_EP32348_Release",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TOYOTA_7XXD_YOCTO_CRE_MY2026_EP32348_Release",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "Test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test",
+        "Size": "954.92 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Test",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Test-example",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test-example",
+        "Size": "10.86 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Test-example",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test-example",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Test-repository",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test-repository",
+        "Size": "2.38 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Test-repository",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test-repository",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TestServerreplica",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TestServerreplica",
+        "Size": "26.25 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TestServerreplica",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TestServerreplica",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Test_Local_user",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test_Local_user",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Test_Local_user",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test_Local_user",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Test_Local_user1",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test_Local_user1",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Test_Local_user1",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test_Local_user1",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Test_repo",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test_repo",
+        "Size": "908.59 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Test_repo",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test_repo",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS-Vess-test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS-Vess-test",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS-Vess-test",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS-Vess-test",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST",
+        "Size": "121.74 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_Branchbuilds",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Branchbuilds",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_Branchbuilds",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Branchbuilds",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_Dailybuilds",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Dailybuilds",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_Dailybuilds",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Dailybuilds",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_Generic",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Generic",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_Generic",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Generic",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Integration",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_Integration",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Integration",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_Nightlybuilds",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Nightlybuilds",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_Nightlybuilds",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Nightlybuilds",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_Publicshare",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Publicshare",
+        "Size": "328 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_Publicshare",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Publicshare",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_Release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Release",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_Release",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Release",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_Staging",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Staging",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_Staging",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Staging",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_TCU",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_TCU",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_TCU",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_TCU",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_Thirdpartycomponents",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Thirdpartycomponents",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_Thirdpartycomponents",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Thirdpartycomponents",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_CDC_MY2024_EP1111_Validation",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Validation",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_CDC_MY2024_EP1111_Validation",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_CDC_MY2024_EP1111_Validation",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_Integration",
+        "Size": "1.66 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_Integration",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_Integration",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "VESS_TEST_NightlyBuilds",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_NightlyBuilds",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "VESS_TEST_NightlyBuilds",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/VESS_TEST_NightlyBuilds",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "conan-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/conan-local",
+        "Size": "622.54 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "conan-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/conan-local",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "cran-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/cran-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "cran-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/cran-local",
+            "packageType": "CRAN"
+        }
+    },
+    {
+        "Repo-Name": "debian-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/debian-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "debian-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/debian-local",
+            "packageType": "Debian"
+        }
+    },
+    {
+        "Repo-Name": "devnext-docker-images",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/devnext-docker-images",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "devnext-docker-images",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/devnext-docker-images",
+            "packageType": "Docker"
+        }
+    },
+    {
+        "Repo-Name": "devnext_docker",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/devnext_docker",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "devnext_docker",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/devnext_docker",
+            "packageType": "Docker"
+        }
+    },
+    {
+        "Repo-Name": "example-repo-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/example-repo-local",
+        "Size": "1.90 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "example-repo-local",
+            "description": "Internal testing",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/example-repo-local",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "gradle-dev-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/gradle-dev-local",
+        "Size": "844.67 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "gradle-dev-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/gradle-dev-local",
+            "packageType": "Gradle"
+        }
+    },
+    {
+        "Repo-Name": "gradle-release-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/gradle-release-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "gradle-release-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/gradle-release-local",
+            "packageType": "Gradle"
+        }
+    },
+    {
+        "Repo-Name": "helm-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/helm-local",
+        "Size": "69 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "helm-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/helm-local",
+            "packageType": "Helm"
+        }
+    },
+    {
+        "Repo-Name": "ivy-release-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/ivy-release-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "ivy-release-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/ivy-release-local",
+            "packageType": "Ivy"
+        }
+    },
+    {
+        "Repo-Name": "libs-snapshot-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/libs-snapshot-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "libs-snapshot-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/libs-snapshot-local",
+            "packageType": "Maven"
+        }
+    },
+    {
+        "Repo-Name": "nuget-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/nuget-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "nuget-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/nuget-local",
+            "packageType": "NuGet"
+        }
+    },
+    {
+        "Repo-Name": "opkg-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/opkg-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "opkg-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/opkg-local",
+            "packageType": "Opkg"
+        }
+    },
+    {
+        "Repo-Name": "php-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/php-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "php-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/php-local",
+            "packageType": "Composer"
+        }
+    },
+    {
+        "Repo-Name": "puppet-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/puppet-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "puppet-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/puppet-local",
+            "packageType": "Puppet"
+        }
+    },
+    {
+        "Repo-Name": "pypi-beta-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/pypi-beta-local",
+        "Size": "419.86 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "pypi-beta-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/pypi-beta-local",
+            "packageType": "Pypi"
+        }
+    },
+    {
+        "Repo-Name": "pypi-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/pypi-local",
+        "Size": "1002.95 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "pypi-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/pypi-local",
+            "packageType": "Pypi"
+        }
+    },
+    {
+        "Repo-Name": "quotatest",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/quotatest",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "quotatest",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/quotatest",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "rashmi-test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/rashmi-test",
+        "Size": "67 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "rashmi-test",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/rashmi-test",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "reptest",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/reptest",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "reptest",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/reptest",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "rpm-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/rpm-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "rpm-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/rpm-local",
+            "packageType": "YUM"
+        }
+    },
+    {
+        "Repo-Name": "sbt-dev-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/sbt-dev-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "sbt-dev-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/sbt-dev-local",
+            "packageType": "SBT"
+        }
+    },
+    {
+        "Repo-Name": "sbt-release-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/sbt-release-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "sbt-release-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/sbt-release-local",
+            "packageType": "SBT"
+        }
+    },
+    {
+        "Repo-Name": "scania_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/scania_Integration",
+        "Size": "1.27 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "scania_Integration",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/scania_Integration",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "scania_Release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/scania_Release",
+        "Size": "359.07 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "scania_Release",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/scania_Release",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "scania_Staging",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/scania_Staging",
+        "Size": "216.33 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "scania_Staging",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/scania_Staging",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "scania_Validation",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/scania_Validation",
+        "Size": "525.41 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "scania_Validation",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/scania_Validation",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "skoda_IntregartionBuilds",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/skoda_IntregartionBuilds",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "skoda_IntregartionBuilds",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/skoda_IntregartionBuilds",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "ssh-test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/ssh-test",
+        "Size": "3.46 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "ssh-test",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/ssh-test",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "support-logs",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/support-logs",
+        "Size": "14.90 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "support-logs",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/support-logs",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "t1",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/t1",
+        "Size": "5.61 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "t1",
+            "description": "test",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/t1",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "test-abc",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/test-abc",
+        "Size": "165 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "test-abc",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/test-abc",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "test_bazel",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/test_bazel",
+        "Size": "8.36 GB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "test_bazel",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/test_bazel",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "test_public_generic_repo",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/test_public_generic_repo",
+        "Size": "21.58 KB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "test_public_generic_repo",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/test_public_generic_repo",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "test_public_repo_divya",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/test_public_repo_divya",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "test_public_repo_divya",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/test_public_repo_divya",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "testrepository",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/testrepository",
+        "Size": "1.66 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "testrepository",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/testrepository",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "vagrant-local",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/vagrant-local",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "vagrant-local",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/vagrant-local",
+            "packageType": "Vagrant"
+        }
+    },
+    {
+        "Repo-Name": "vbn",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/vbn",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "vbn",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/vbn",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "vess_automation",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/vess_automation",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "vess_automation",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/vess_automation",
+            "packageType": "Pypi"
+        }
+    },
+    {
+        "Repo-Name": "vess_autotest",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/vess_autotest",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "vess_autotest",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/vess_autotest",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "webhook-test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/webhook-test",
+        "Size": "6.16 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "webhook-test",
+            "description": "",
+            "type": "LOCAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/webhook-test",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Example_Remote_2024_v10_Integration",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Example_Remote_2024_v10_Integration",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Example_Remote_2024_v10_Integration",
+            "description": " (local file cache)",
+            "type": "REMOTE",
+            "url": "https://registry.npmjs.org",
+            "packageType": "Npm"
+        }
+    },
+    {
+        "Repo-Name": "Test_Repository_Production_To_QA",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test_Repository_Production_To_QA",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Test_Repository_Production_To_QA",
+            "description": " (local file cache)",
+            "type": "REMOTE",
+            "url": "https://jfrog.glcc.visteon.com/artifactory/Testreporsitory/",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "W601repo",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/W601repo",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "W601repo",
+            "description": " (local file cache)",
+            "type": "REMOTE",
+            "url": "http://10.138.90.52:8081/artifactory/MAH-DC-Z101-W601-CDC-2020_EP23710_Integration/",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "a1",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/a1",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "a1",
+            "description": "",
+            "type": "REMOTE",
+            "url": "https://center.conan.io/",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "bintray-docker-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/bintray-docker-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "bintray-docker-remote",
+            "type": "REMOTE",
+            "url": "https://docker.bintray.io",
+            "packageType": "Docker"
+        }
+    },
+    {
+        "Repo-Name": "chef-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/chef-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "chef-remote",
+            "type": "REMOTE",
+            "url": "https://supermarket.chef.io",
+            "packageType": "Chef"
+        }
+    },
+    {
+        "Repo-Name": "conan---",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/conan---",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "conan---",
+            "description": "",
+            "type": "REMOTE",
+            "url": "https://center.conan.io/",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "conan-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/conan-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "conan-remote",
+            "type": "REMOTE",
+            "url": "https://conan.bintray.com",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "debian-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/debian-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "debian-remote",
+            "type": "REMOTE",
+            "url": "http://archive.ubuntu.com/ubuntu/",
+            "packageType": "Debian"
+        }
+    },
+    {
+        "Repo-Name": "gems-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/gems-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "gems-remote",
+            "type": "REMOTE",
+            "url": "https://rubygems.org/",
+            "packageType": "Gems"
+        }
+    },
+    {
+        "Repo-Name": "gocenter",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/gocenter",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "gocenter",
+            "type": "REMOTE",
+            "url": "https://gocenter.io/",
+            "packageType": "Go"
+        }
+    },
+    {
+        "Repo-Name": "helm-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/helm-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "helm-remote",
+            "type": "REMOTE",
+            "url": "https://storage.googleapis.com/kubernetes-charts",
+            "packageType": "Helm"
+        }
+    },
+    {
+        "Repo-Name": "jcenter",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/jcenter",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "jcenter",
+            "type": "REMOTE",
+            "url": "https://jcenter.bintray.com",
+            "packageType": "Maven"
+        }
+    },
+    {
+        "Repo-Name": "maven-remote-test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/maven-remote-test",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "maven-remote-test",
+            "description": "",
+            "type": "REMOTE",
+            "url": "https://repo1.maven.org/maven2/",
+            "packageType": "Maven"
+        }
+    },
+    {
+        "Repo-Name": "maven-test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/maven-test",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "maven-test",
+            "description": "",
+            "type": "REMOTE",
+            "url": "https://repo1.maven.org/maven2/",
+            "packageType": "Maven"
+        }
+    },
+    {
+        "Repo-Name": "myconan-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/myconan-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "myconan-remote",
+            "type": "REMOTE",
+            "url": "https://conan.bintray.com",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "nuget-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/nuget-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "nuget-remote",
+            "type": "REMOTE",
+            "url": "https://www.nuget.org/",
+            "packageType": "NuGet"
+        }
+    },
+    {
+        "Repo-Name": "opkg-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/opkg-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "opkg-remote",
+            "type": "REMOTE",
+            "url": "https://downloads.openwrt.org/chaos_calmer/15.05.1/",
+            "packageType": "Opkg"
+        }
+    },
+    {
+        "Repo-Name": "php-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/php-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "php-remote",
+            "type": "REMOTE",
+            "url": "https://github.com/",
+            "packageType": "Composer"
+        }
+    },
+    {
+        "Repo-Name": "puppet-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/puppet-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "puppet-remote",
+            "type": "REMOTE",
+            "url": "https://forgeapi.puppetlabs.com/",
+            "packageType": "Puppet"
+        }
+    },
+    {
+        "Repo-Name": "pypi-remote",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/pypi-remote",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "pypi-remote",
+            "type": "REMOTE",
+            "url": "https://files.pythonhosted.org",
+            "packageType": "Pypi"
+        }
+    },
+    {
+        "Repo-Name": "remote-w601",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/remote-w601",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "remote-w601",
+            "type": "REMOTE",
+            "url": "http://10.138.90.52:8081/artifactory/MAH-DC-Z101-W601-CDC-2020_EP23710_VIP/",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "CONAN_TEST_VIRTUAL_REPO",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/CONAN_TEST_VIRTUAL_REPO",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "CONAN_TEST_VIRTUAL_REPO",
+            "description": "",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/CONAN_TEST_VIRTUAL_REPO",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "NISSAN",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "NISSAN",
+            "description": "For NISSAN",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/NISSAN",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "Virtual_repo_test",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Virtual_repo_test",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Virtual_repo_test",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Virtual_repo_test",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "bower",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/bower",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "bower",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/bower",
+            "packageType": "Bower"
+        }
+    },
+    {
+        "Repo-Name": "chef",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/chef",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "chef",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/chef",
+            "packageType": "Chef"
+        }
+    },
+    {
+        "Repo-Name": "conan",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/conan",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "conan",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/conan",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "docker",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/docker",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "docker",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/docker",
+            "packageType": "Docker"
+        }
+    },
+    {
+        "Repo-Name": "gradle-release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/gradle-release",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "gradle-release",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/gradle-release",
+            "packageType": "Gradle"
+        }
+    },
+    {
+        "Repo-Name": "helm",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/helm",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "helm",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/helm",
+            "packageType": "Helm"
+        }
+    },
+    {
+        "Repo-Name": "ivy-release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/ivy-release",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "ivy-release",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/ivy-release",
+            "packageType": "Ivy"
+        }
+    },
+    {
+        "Repo-Name": "libs-release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/libs-release",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "libs-release",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/libs-release",
+            "packageType": "Maven"
+        }
+    },
+    {
+        "Repo-Name": "libs-snapshot",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/libs-snapshot",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "libs-snapshot",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/libs-snapshot",
+            "packageType": "Maven"
+        }
+    },
+    {
+        "Repo-Name": "new-virtual",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/new-virtual",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "new-virtual",
+            "description": "",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/new-virtual",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "npm",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/npm",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "npm",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/npm",
+            "packageType": "Npm"
+        }
+    },
+    {
+        "Repo-Name": "nuget",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/nuget",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "nuget",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/nuget",
+            "packageType": "NuGet"
+        }
+    },
+    {
+        "Repo-Name": "p1",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/p1",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "p1",
+            "description": "",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/p1",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "puppet",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/puppet",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "puppet",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/puppet",
+            "packageType": "Puppet"
+        }
+    },
+    {
+        "Repo-Name": "pypi",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/pypi",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "pypi",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/pypi",
+            "packageType": "Pypi"
+        }
+    },
+    {
+        "Repo-Name": "rpm",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/rpm",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "rpm",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/rpm",
+            "packageType": "YUM"
+        }
+    },
+    {
+        "Repo-Name": "sbt-dev",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/sbt-dev",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "sbt-dev",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/sbt-dev",
+            "packageType": "SBT"
+        }
+    },
+    {
+        "Repo-Name": "sbt-release",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/sbt-release",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "sbt-release",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/sbt-release",
+            "packageType": "SBT"
+        }
+    },
+    {
+        "Repo-Name": "virtual1",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/virtual1",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "virtual1",
+            "description": "",
+            "type": "VIRTUAL",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/virtual1",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "TEST_CONAN_FED",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_CONAN_FED",
+        "Size": "141 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "TEST_CONAN_FED",
+            "description": "",
+            "type": "FEDERATED",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/TEST_CONAN_FED",
+            "packageType": "Conan"
+        }
+    },
+    {
+        "Repo-Name": "Test_ReleaseBuilds",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test_ReleaseBuilds",
+        "Size": "5.32 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "Test_ReleaseBuilds",
+            "description": "",
+            "type": "FEDERATED",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/Test_ReleaseBuilds",
+            "packageType": "Generic"
+        }
+    },
+    {
+        "Repo-Name": "artifactory-build-info",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/artifactory-build-info",
+        "Size": "1.27 MB",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "artifactory-build-info",
+            "description": "Build Info repository",
+            "type": "FEDERATED",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/artifactory-build-info",
+            "packageType": "BuildInfo"
+        }
+    },
+    {
+        "Repo-Name": "frd27814-build-info",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/frd27814-build-info",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "frd27814-build-info",
+            "type": "FEDERATED",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/frd27814-build-info",
+            "packageType": "BuildInfo"
+        }
+    },
+    {
+        "Repo-Name": "test-fedd",
+        "Repo-Url": "https://jfrog.bangalore.qa.visteon.com/artifactory/test-fedd",
+        "Size": "0 B",
+        "Created Date": "N/A",
+        "Modified Date": "N/A",
+        "Properties": {
+            "key": "test-fedd",
+            "description": "",
+            "type": "FEDERATED",
+            "url": "https://jfrog.bangalore.qa.visteon.com/artifactory/test-fedd",
+            "packageType": "Generic"
+        }
+    }
+]
